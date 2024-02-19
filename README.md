@@ -1,4 +1,4 @@
-# EDA-for-NYC-Motor-Vehicle-Crashes
+# Exploratory analysis for NYC motor vehicle crashes
 
 This repository hosts an investigative project that examines motor vehicle crash data provided by the City of New York. Through this exploration, my primary aim was to enhance my skills in data cleaning, processing, and to conduct exploratory analysis to unearth underlying trends, particularly focusing on identifying the borough with the highest rate of fatal crashes and the predominant causes behind these tragic incidents.
 
