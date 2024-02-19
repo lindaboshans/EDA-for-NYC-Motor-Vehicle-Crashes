@@ -4,4 +4,4 @@ This repository hosts an investigative project that examines motor vehicle crash
 
 After a thorough analysis, it was determined that Brooklyn experienced the most significant number of crashes, closely followed by Queens. To offer a more nuanced perspective, I normalized these figures against the population of each borough, presenting the findings as the total number of fatalities per 100,000 residents. This approach not only sheds light on the severity of motor vehicle collisions across different boroughs but also highlights the critical need for targeted safety measures.
 
-<img width="1018" alt="Screenshot 2024-02-18 at 11 05 34 PM" src="https://github.com/lindaboshans/EDA-for-NYC-Motor-Vehicle-Crashes/assets/67070387/23a04158-b1c3-480b-ad29-1a3eff87d00b">
+<img width="731" alt="Screenshot 2024-02-18 at 11 14 12 PM" src="https://github.com/lindaboshans/EDA-for-NYC-Motor-Vehicle-Crashes/assets/67070387/c1697071-1734-4dbb-a417-075e169ce9b3">
